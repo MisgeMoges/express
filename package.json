@@ -1,0 +1,17 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "This is express tutorial for my backend development journey",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Misge Moges",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "i": "^0.3.7",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.19"
+  }
+}
